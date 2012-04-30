@@ -9,3 +9,9 @@ Powered by [Cocos2D](http://www.cocos2d-iphone.org/) framework.
 The code is released under the [MIT License](http://opensource.org/licenses/mit-license.php).
 
 **WIP Video:** [Tiny Wings Remake WIP #6](http://www.youtube.com/watch?v=dvkdZ1Bw2uE) (2011-06-23)
+
+# My TODO List
+
+Port this game to HTML5 using Construct2.
+
+Add the level transitions with increased difficulty.
